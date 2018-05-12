@@ -1,0 +1,38 @@
+_repo: The-English-StageBeing-an-Account-of-the-Victorian-Drama_36590
+_version: 0.1.0
+alternative_title: Le théâtre anglais. English
+contributor:
+  translator:
+    agent_name: Whyte, Frederic
+    birthdate: 1867
+    deathdate: 1941
+    gutenberg_agent_id: '38368'
+    url: http://www.gutenberg.org/2009/agents/38368
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Filon, Augustin
+    alias: Filon, Pierre Marie Augustin
+    birthdate: 1841
+    deathdate: 1916
+    gutenberg_agent_id: '38226'
+    url: http://www.gutenberg.org/2009/agents/38226
+description: ''
+gutenberg_issued: '2011-07-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36590'
+  lccn: '12019434'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PN'
+- !lcsh 'Theater -- England -- History -- 19th century'
+- !lcsh 'Great Britain -- History -- Victoria, 1837-1901'
+- !lcsh 'English drama -- 19th century -- History and criticism'
+title: 'The English Stage: Being an Account of the Victorian Drama'
+url: http://www.gutenberg.org/ebooks/36590
